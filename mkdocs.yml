@@ -10,6 +10,7 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
+  - search
   - mkdocs-audio
   - md-preview:
       enable: true
